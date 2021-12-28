@@ -1,5 +1,5 @@
 ## Bem vindo(a) ao meu GitHub 👋
-<img align="center" src="victordotjs.gif" />
+<img align="center" width="100" src="victordotjs.gif" />
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordotJS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordotJS&layout=compact&langs_count=7&theme=dracula"/>
